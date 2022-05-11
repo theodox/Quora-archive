@@ -1,0 +1,32 @@
+# What moral values were considered most important in ancient Greece?
+
+	author: Steve Theodore
+	written: 2015-06-14
+	views: 12271
+	upvotes: 54
+	quora url: /What-moral-values-were-considered-most-important-in-ancient-Greece/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+Like us, the Greeks had lots of competing belief systems -- often mutually incompatible and even mutually hostile. However there were a few things that stand out as pretty characteristic. Since the other answers are covering the 'high culture' side of the philosophers, I'll stick to sources that are more everyday and closer to the kinds of things Greeks said to each other as conventional wisdom. I will say in passing that Aristotle was something of a self-appointed 'keeper of conventional wisdom," so of all the Serious Thinkers was probably the most representative of the ordinary Greek in the agora; the list in [Robert J. Kolker](https://www.quora.com/profile/Robert-J-Kolker)'s answer is pretty good if you need the key bullet-points.
+
+The temple of Apollo at Delphi, the closest thing to a 'center' in the highly decentralized Greek religion, had a famous inscription: μηδὲν ἄγαν - "Nothing in excess"; the same principle of balance that is alluded to as the "Golden Mean" of Aristotle. The Greeks tended to abhor any kind of excess: not merely overindulgence (too much food, too much wine) but also over-investment in other virtues: too much courage made you foolhardy; to be too just made you an easy mark for cheats and swindlers. The strong dislike of enthusiasms of any sort is a characteristic of most Greek thinkers, and often featured in their criticisms of each other.
+
+![](https://qph.fs.quoracdn.net/main-qimg-b4dc4149c1eca08427b9f911acbd9098)
+
+_Solon says "Nothing to excess" in this Cypriot stamp. Unfortunately this does not apply to the_ _[Cypriot financial crisis](https://en.wikipedia.org/wiki/2012%E2%80%9313_Cypriot_financial_crisis)_ 
+
+A second famous Delphic inscription was γνῶθι σεαυτόν - "Know thyself," which is sometimes read as an injunction to be self aware and reflective -- and sometimes read as an injunction to know your place and not get above yourself (a philosophical maxim that means exactly what it says is, of course, too boring to be popular: "brush your teeth every night" is good advice, but not a good subject for late night dorm conversations). Plato has one of his characters say that "know thyself" is just another way of saying "nothing to excess" -- but he then spends a lot of more time talking about what else it means : Plato knew the rule about not breaking things down to neatly!
+
+A very important record of the 'conventional wisdom' in the Greek world was the wisdom of the [Seven Sages of Greece](https://en.wikipedia.org/wiki/Seven_Sages_of_Greece), a set of semi-legendary figures (mostly real people of the semi-literate 7th century BC, so their deeds and sayings are mostly filtered through oral tradition rather than direct records). These maxims were widely quoted and taught (the two inscriptions cited above are both also ascribed to the Sages).
+
+These are an interesting mix of moral and practical advice, with some interestingly cold-hearted extras: From [Bias of Priene](https://en.wikipedia.org/wiki/Bias_of_Priene) come gems like _Most men are bad_ and _Naïve men are easily fooled_ and _It is hard to bear a bad luck with good nature_  (though he was, reputedly, a kind man in his own life). From [Pittacus of Mytilene](https://en.wikipedia.org/wiki/Pittacus_of_Mytilene) you get _Do not say beforehand what you are going to do; for if you fail, you will be laughed at,_ and _Even the Gods cannot strive against necessity_ , but also _Forgiveness is better than revenge_  -- a sentiment which was unusual in Greece. [Chilon of Sparta](https://en.wikipedia.org/wiki/Chilon_of_Sparta) sounds something like Confucius, advising _Obey the laws_  and_Honor old age_ but also a very Delphic _Do not let your tongue outrun your sense._ 
+
+[Aesop's Fable](http://www.aesopfables.com/aesopsel.html) also date from the half-literate period before the classical era, and they are a great snapshot of many important Greek attitudes (like the seven Sages, plenty of pithy tales were later attributed to Aesop though it's unlikely a single individual wrote them all). They have a wide variety of morals -- often contradictory ones. One of the important themes, however, are the importance of caution and in an uncertain world (_[Don't count your chickens before they hatch](http://www.aesopfables.com/cgi/aesop1.cgi?sel&TheMilkmaidandHerPail)_ _,_ _[Don't rely on promises alone](http://www.aesopfables.com/cgi/aesop1.cgi?sel&TheSwallowandtheCrow)_ _,_ _[Once a snake, always a snake](http://www.aesopfables.com/cgi/aesop1.cgi?sel&TheWoodmanandtheSerpent)_ _) ._ 
+
+Another key theme is jealousy - both it's prevalence and how it can bring down the unwary. In the highly competitive, very public life of a Greek city the neighbors were always watching and the spirit of [Φθόνος ](https://en.wikipedia.org/wiki/Phthonus)or envy was always present. There's a famous historical story which underlines the moral and would make total sense to the author of [The Fox Who Lost His Tail](http://www.aesopfables.com/cgi/aesop1.cgi?sel&TheFoxWhoHadLostHisTail) or [The Man Bitten by a Dog](http://www.aesopfables.com/cgi/aesop1.cgi?sel&TheManBittenbyaDog):
+
+> This Aristides had the nickname “The Just" because he was reputed to be so fair-minded. On the balloting day for an ostracism, an illiterate man from the countryside handed Aristides a potsherd, asking him to scratch on it the name of the man's choice for ostracism. “Certainly,” said Aristides; “Which name shall I write?” “Aristides,” replied the countryman. “Very well,” remarked Aristides as he proceeded to inscribe his own name. “But tell me, why do you want to ostracize Aristides? What has he done to you?” “Oh, nothing; I don't even know him,” sputtered the man. “I'm just sick and tired of hearing everybody refer to him as ‘The Just.’”
+
+Overall the Greek virtues tended to be canny rather than abstract, and prudent rather than heroic. We often overlook how hard life was back then: Greek cities were intensely factionalized, highly competitive and frequently very treacherous places, and the lessons that helped you survive were more about prudence and self protection than about self-sacrifice, inflexible righteousness, or commitment to the common good.
+

@@ -1,0 +1,18 @@
+# How many texts in Latin and ancient Greek have not yet been translated?
+
+	author: Steve Theodore
+	written: 2017-02-10
+	views: 3053
+	upvotes: 30
+	quora url: /How-many-texts-in-Latin-and-ancient-Greek-have-not-yet-been-translated/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+It’s a tough question because the boundaries are a bit fuzzier than you’d think. For one thing, both languages have a long tail — Latin remained the language of scholarship and law in Europe up into the 19th century, and there are definitely a lot of tomes of medieval theology, Renaissance alchemy, or even 18th century neo-Latin poetry lying around untranslated simply because they don’t interest anybody but specialists. In the Greek-speaking world, where the linguistic link to the past is even stronger, there are a million texts that don’t get much readership today which are ‘ancient’ for a given value of ‘ancient’ — does an 8th century byzantine manual on provincial tax structures count?
+
+Even if you’re limiting the question to, say, before the fall of the (western) Roman empire in 476, the answer still hard to quantify; here the problem isn’t the word ‘ancient’ but the word ‘text’. There are a small number of more or less complete Greek and Latin texts that don’t really have much merit in the eyes of general readers, but five or six centuries of intensive scholarly study have turned over even pretty minor works. There’s not a lot of deep, eternal meaning in something like the [Panegyrici Latini](https://en.wikipedia.org/wiki/Panegyrici_Latini), a collection of fawning ancient PR for several later Roman emperors — but it’s [translated](http://www.ucpress.edu/book.php?isbn=9780520286252). Almost anything longer than a page or two has been translated (though of course, not necessarily into English!) in the last few hundred years.
+
+Most of the untranslated stuff is just too fragmentary to bother with. It’s a sad fact that [more than 90% of the works whose existence we know of exist only in quotations and paraphrases](https://www.quora.com/unanswered/What-are-some-books-that-no-longer-exist-yet-are-quoted-by-other-ancient-books) in other authors. If you want to count these little bits and pieces as “texts”, the number of un-translated “texts” is quite large — however the word count is not too big because they are usually just snippets. The big collections of odds-and-ends like the [Fragmente der Griechischen Historiker ](http://referenceworks.brillonline.com/browse/die-fragmente-der-griechischen-historiker-i-iii)are usually not translated since (a) they’re huge and (b) they are of interest only to specialists who already know the languages. General readers aren’t generally going to pick up a big fat tome like the [Monumenta Germaniae Historica ](http://www.mgh.de/dmgh/)(which covers a lot of Late-Roman Latin texts in addition to German stuff) and just leaf through it for fun. Some of the fragments do get translated (for example a lot of college course will go through [The Presocratic Philosophers](https://archive.org/stream/presocraticphilo033229mbp/presocraticphilo033229mbp_djvu.txt), which renders the surviving bits and pieces of early Greek philosophy into English.
+
+The other big source of fragmentary texts is the [rubbish dumps of Roman Egypt](http://www.papyrology.ox.ac.uk/POxy/VExhibition/exhib_welcome.html), which include a lot of bits and pieces of every kind of Greek and Roman text imaginable, from fragments of lost plays to private letters to early manuscripts of the Bible. This material unfortunately is usually in pretty bad physical shape, so just reconstructing it takes a lot of work and again, it’s rarely something a general reader will peruse for fun.
+

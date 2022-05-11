@@ -1,0 +1,22 @@
+# Is crime and injustice in the modern world higher than in the ancient world?
+
+	author: Steve Theodore
+	written: 2021-02-16
+	views: 471
+	upvotes: 22
+	quora url: /Is-crime-and-injustice-in-the-modern-world-higher-than-in-the-ancient-world/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+Almost certainly not — though, to be fair, we don’t have anything like statistics to back that assumption.
+
+There are three main reasons to think things were generally worse in terms of personal security for most of human history.
+
+Professional __law enforcement__  is a relatively modern invention (the [first permanent police force in the English speaking world only dates to 1749](https://en.wikipedia.org/wiki/Bow_Street_Runners)). In most ancient societies there was no public police force: Rome, for example, [didn’t have an internal internal security presence until the rise of the empire](https://www.quora.com/If-Roman-generals-were-forbidden-from-entering-Rome-how-was-Rome-guarded-from-internal-and-external-conflict/answer/Steve-Theodore?ch=10&share=ed5abe12&srid=zLvM). After around 25 BC there were paramilitary forces that handled riot control and security for the imperial family, but even then there was not much we’d recognize as an ordinary law-enforcement presence on the streets. Venturing outside alone after dark was seen as a risky at best; most houses had tiny barred windows and solid, barred doors for a reason. Professional policing is an expensive item that most ancient societies could not afford. The corollary to that tends to be __spectacular, gory punishments__ : crucifixions, gladiatorial games, and the lions of the arena were all in part intended to deter by example crimes that the state could not prevent by maintaining public order.
+
+There’s also __endemic poverty.__ It’s easy to be swayed by the remains of ancient civilizations: the monuments and artworks that survive are impressive reminders of how capable people were. But most of the population — even in wealthy places — was only one bad harvest away from starvation: most of the ancient population would happily trade places with people we regard today as hopelessly poor. To use Rome again, the average Roman in Pompeii — a fairly prosperous provincial town — was 166 cm or 5′4″. Their modern counterparts in southern Italy average 174 cm / 5′8″: the difference is due to nutrition. In [this list](https://www.worlddata.info/average-bodyheight.php), only 13 of 143 countries have an average height on par with Pompeii — that gives you a quick rough idea of how one of the most prosperous parts of an ancient empire compares to modern poverty. On top of that, most places had little in the way of social services: in most of antiquity, if you could not work you begged or you starved or perhaps sold yourself into slavery. Even for the survivors, poverty generates all sorts of secondary miseries beyond simple hardship: often the ways people try to numb the distress of poverty cause more problems for individuals and society. Empathy isn’t an exclusive property of the rich — but it’s a lot easier to be empathetic on a full stomach.
+
+And last — but _absolutely_ not least — you can never forget __slavery.__ Ancient slavery came in many forms, sometimes surprising ones: there are plenty of historical examples of slaves who were in many ways more privileged than poorer free contemporaries, including [slave warriors ](https://www.quora.com/What-would-the-economics-behind-a-class-caste-of-slave-soldiers-be/answer/Steve-Theodore?ch=10&share=f679e526&srid=zLvM)and [slave kings](https://www.quora.com/Was-there-any-slave-in-history-who-became-a-king/answer/Steve-Theodore?ch=10&share=00136c6c&srid=zLvM). Nonetheless it was at its heart a system based on domination and exploitation. It subjected huge slices of the population to the arbitrary rule of other people. Ancient slavery was complicated and sometimes humanized by law or by custom — but it was _always_ ultimately [founded on violence and oppression](https://www.quora.com/Could-Romans-do-whatever-they-want-with-their-slaves/answer/Steve-Theodore?ch=10&share=e5d83736&srid=zLvM).
+
+So no: the “good old days” were not better in ways we’d want to emulate. It’s not wise to waste energy patting ourselves on the back for our superiority to the long dead: their problems were vastly challenging than ours, and I’m not sure most of us would do any better if born into equally difficult straits. Nevertheless, there’s no reason to be envious: life was harder on pretty much every plane back then.
+

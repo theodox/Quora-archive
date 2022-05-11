@@ -1,0 +1,24 @@
+# If it was even possible, how would ancient civilizations look upon individuals who were biracial.?
+
+	author: Steve Theodore
+	written: 2016-05-15
+	views: 2326
+	upvotes: 38
+	quora url: /If-it-was-even-possible-how-would-ancient-civilizations-look-upon-individuals-who-were-biracial/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+Ancient societies were actually, in many ways, more diverse than modern ones. Because travel was so much harder, you didn’t see the kinds of large-scale movements of people that are common today — but on the other hand small enclaves lived much more self-sufficiently than they can today and many distinct cultures, languages, and ethnic groups could live side by side in what seems to us a tiny space. In the early days of the Roman republic, for example, there were 16 different languages spoken within what’s now a two hours drive from Rome; the Persian empire of Darius spoke 24 major languages and dozens of smaller local tongues.
+
+In that kind of world our modern ideas of ‘race’ are very oversimplified. There absolutely were plenty of limits on your opportunities in life based on birth in most ancient cultures (most people, after all, were tied to hereditary land tenure or hereditary occupations , assuming they were free at all) but the rules of precedence were based on a variety of very local considerations. However in all times and places class prejudice was far more important than ethnic prejudice: in a world where most people are serfs, peasants or slaves the gentry are very good at recognizing each other no matter what their skin color. The international elite was often quite mixed: somebody like [Juba II](https://en.wikipedia.org/wiki/Juba_II) of Mauretania was a Libyan / Berber prince, married to a Greek Egyptian princess, and pen-pals with Augustus Caesar; it’s also possible, though unlikely that he was the great-to-the-Nth grandfather of [Zenobia](https://en.wikipedia.org/wiki/Zenobia), the famous warrior queen of Palmyra.
+
+![](https://qph.fs.quoracdn.net/main-qimg-bde4d793528262d5d82cfd4d3c5f4c70-c)
+
+_Septimius Severus of Libya: Half Roman, Half Berber, all emperor_ 
+
+Some times and places were pretty xenophobic: classical Athens, for example, was extremely restrictive in its approach to citizenship: only extraordinary circumstances could get you naturalized as an Athenian citizen even if you came from a neighboring Greek city, much less from someplace more exotic. Athens had a large community of permanent resident aliens, many of whom had lived there as non-citizens for generations.
+
+By contrast, Roman society was ‘multicultural’ from very early on: as Rome expanded to absorb first the Italian peninsula and eventually the whole mediterranean world Rome also absorbed the local elites of the communities she conquered: many famous “Roman” names were actually Sabine, Umbrian, Oscan or Etruscan — and of course the Aeneid, the founding mythology of Rome, was all about the fusion of a band of foreign exiles into Roman society. As it turned out, [most Roman emperors were not even Italians](https://www.quora.com/Were-most-Emperors-of-the-Roman-Empire-born-in-what-is-now-Italy/answer/Steve-Theodore). That crew was a very multicultural mix: emperor [Septimius Severus](https://en.wikipedia.org/wiki/Septimius_Severus) was Italian on his mother’s side but his fathers family included both Berbers and Punic descendants of long-lost Carthage; It’s not entirely clear what [Philippus Arabus](http://www.roman-empire.net/decline/philipp-arabs.html)’ family extraction really was but he was either a Syrian or (less likely) a Nabataean Arab — he certainly wasn’t an old line Roman. The upper ranks of the bureacracy and of commerce were equally diverse. There were certainly [complaints from nativists](http://www.casa-kvsa.org.za/1976/AC19-06-Watts.pdf) who denounced the influence of foreigners and upstarts — but on the whole money and ability counted for more than lineage throughout most of the imperial period.
+
+An interesting middle ground is Ptolemaic Egypt. At the top of society power and wealth were monopolized by the Greek elite around the royal court, who were so socially exclusive that brother-sister marriages were a common way of keeping money and power ‘in the family’. Farther down the social ladder, though, Egypt was a dizzying multicultural melange — Greeks and Egyptians but also Libyans, Jews, Nubians and “Troglodytes” (probably [Garamantes](http://www.livius.org/articles/place/garamantes/) from the Sahara) intermarried quite frequently — it’s not uncommon to find families where one brother might have an obvious Egyptian name and another brother might a classical sounding Greek one. Of course this diversity wasn’t always harmonious: bloody riots between Greek, Egyptian and Jewish communities were depressingly common in Alexandria throughout antiquity.
+

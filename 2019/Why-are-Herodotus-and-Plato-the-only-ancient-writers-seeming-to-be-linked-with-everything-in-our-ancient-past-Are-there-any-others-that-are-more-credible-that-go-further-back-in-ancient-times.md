@@ -1,0 +1,22 @@
+# Why are Herodotus and Plato the only ancient writers seeming to be linked with everything in our ancient past? Are there any others that are more credible that go further back in ancient times?
+
+	author: Steve Theodore
+	written: 2019-01-27
+	views: 167
+	upvotes: 12
+	quora url: /Why-are-Herodotus-and-Plato-the-only-ancient-writers-seeming-to-be-linked-with-everything-in-our-ancient-past-Are-there-any-others-that-are-more-credible-that-go-further-back-in-ancient-times/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+The answers aren’t exactly the same for both authors, but they share a common theme.
+
+__Herodotus__  tops the list of “usual suspects” because he was interested in just about _everything._ His work covers everything from blood-and-guts tales like the famous last stand at Thermopylae to philosophical musings like Solon schooling Croesus on the vanity of human fortunes to speculations about the rate of silt deposition in the Nile delta. Herodotus is a fountain of interesting information (mixed, it has to be said, with often remarkable misinformation) about the entire world of the 5th century BC: he touches on cultures as diverse as India, Egypt, Persia, and the nomads of the Eurasian steppes.
+
+There’s really nothing comparable before him: that’s why he get’s the nickname “[father of history](https://www.reed.edu/reed_magazine/september2011/articles/features/classiclecture/classiclecture.html)”. There’s surprisingly little for another few hundred years at least: there are more incisive historians (Thucydides, Polybius) and more systematic encyclopedists (Strabo, Pliny) but they all come later and most of them repeat things that Herodotus recorded earlier. There are certainly earlier _records —_  kings and scribes had been recording contemporary events for almost two millennia when Herodotus first started his work; but those works were, as far as we’ve ever been able to see, were descriptions (usually, doctored for political effect) of then-current events; they are data points for specialists but rarely could a layperson pick up a copy of, say, the [Amarna letters](https://en.wikipedia.org/wiki/Amarna_letters) and make out much of what they are talking about. Because Herodotus was writing to explain, he’s eminently readable.
+
+He also benefits, of course, from the fact that Greek literature never died: it’s been read continuously from his day to this, in innumerable translations. By comparison, literally nobody on Earth could read a word of the ancient Egyptian or Mesopotamian texts which antedate Herodotus for more than a millennium — Egyptian and Akkadian were lost until the 19th century, and Sumerian until almost the 20th. The only works that could be said to ‘compete’ with Herodotus by presenting a systematic retrospective of past events are the historical books of the Bible, which were composed well before Herodotus (the dates are much debated, but some of these were written before the destruction of Jerusalem, more than a century and a half before Herodotus). These books, of course, have never been lost and thus — like Herodotus — have influenced countless later writers.
+
+__Plato__  is everywhere for a different reason. Plato’s philosophy was a touchstone for pretty much all subsequent philosophy in antiquity — even his critics and opponents are always in dialogue with Plato. Outside of the technical realm of philosophy, he created the “character” of Socrates who was one of the most influential role models of the ancient world — even philosophers who disagreed with Plato about everything else still took his Socrates as a role model. Jewish, Muslim and Christian theologians all borrowed from Plato so that — like Herodotus — he’s been a part of our conversations for the past two and a half millennia in a way that no early Mesopotamian or Egyptian sage might have been.
+
+A good way to understand the influence of these two is to note how well preserved their works are. There are plenty of other writers who predate them — there’s an entire Ionian tradition that gave rise to precursors like [Hecataeus](https://en.wikipedia.org/wiki/Hecataeus_of_Miletus), [Thales](https://en.wikipedia.org/wiki/Thales_of_Miletus), and [Democritus](https://en.wikipedia.org/wiki/Democritus). But it exists only in fragments and quotations. Plato and Herodotus reach us most intact because down the centuries people went through the expense and labor of copying and recopying them because they were seen as vital in a way that other books were not.
+

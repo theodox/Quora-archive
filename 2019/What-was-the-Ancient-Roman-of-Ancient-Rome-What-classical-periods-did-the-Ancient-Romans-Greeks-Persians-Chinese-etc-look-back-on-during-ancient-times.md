@@ -1,0 +1,34 @@
+# What was the Ancient Roman of Ancient Rome? What classical periods did the Ancient Romans, Greeks, Persians, Chinese, etc… look back on during ancient times?
+
+	author: Steve Theodore
+	written: 2019-01-22
+	views: 5428
+	upvotes: 124
+	quora url: /What-was-the-Ancient-Roman-of-Ancient-Rome-What-classical-periods-did-the-Ancient-Romans-Greeks-Persians-Chinese-etc-look-back-on-during-ancient-times/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+For the __Greeks__ , the answer is pretty simple: Classical-era Greece looked back on what they thought of as the “Age of Heroes” and what we might call __“Homeric” Greece__ — the period that gave rise to the core elements of Greek literature (Homer and Hesiod) and the Olympian religion.
+
+The problem for the Greeks was that this corresponds to what modern historians call the Greek Dark Age — the centuries between the collapse of the Mycenaean civilization around 1200 BC and the rise of recognizable city-states around 400 years later. During this “Dark Age,” Greece was illiterate. So a classical era Greek trying to understand the past was dependent on oral tradition, most especially in the poems of Homer. Homer does preserver fragments of the world of the late Bronze Age — details of weaponry or armor, the names of vanished cities, even the existence of writing (which the poems clearly treat as a kind of magic) — but they are only fragments.
+
+Later writers who wanted to plumb the depths of their own past could never escape the shadow of Homer: even an arch-rationalist like Thucydides uses Homer as evidence for his theories about growth and change in Greek city states over time. The various regional mythologies were another form of oral tradition which also stretch back into the Greek Dark Age — for example the stories surrounding Theseus were an Athenian-specific set of oral traditions that reach back, in places, to the Mycenaean period too; but lacking the brilliant poetry of Homer these traditions were much more diffuse and contradictory and thus harder to work with. Perhaps not surprisingly, in this context, classical Greeks occasionally make up myths out of whole cloth to explain otherwise inexplicable things — there are a huge number of myths which exist mostly to explain the name of a particular city or people: king [Lacedaemon](https://en.wikipedia.org/wiki/Lacedaemon_(mythology)) and his wife [Sparta](https://en.wikipedia.org/wiki/Sparta_(mythology)), who gave their names to the state and city of the Spartans, both seem to be late inventions intended to try fitting historic Sparta into a mythical-genealogical family tree.
+
+So: when a Greek conservative wanted to appeal to the core of Greek identity, he’d appeal to Homer. A Greek playwright or poet would rarely be able to make a statement that was not a commentary or a twist on Homer. A Greek politician trying to rouse the masses would cite Homer for a store of images and anecdotes that the entire audience knew by heart. The fact that the world of Homer was a brilliant illusion — a seamless tapestry that was equal parts dim historic memory and pure artistic invention — was not something the Greeks could actually perceive from their vantage point.
+
+In later Greek culture — the age that followed the conquests of Alexander, when Greeks were no longer tightly tied to the physical horizons of their original home — what we call the __[Classical Era](https://www.ancient-greece.org/history/classical.html)__ ____ of Athens became a key cultural touchstone. Athenian literature from this period became (and remained, right down till the fall of the Byzantine empire) the unrivalled standard of elegance and correct style for all later Greeks. This period is usually reckoned to start with the defeat of the Persians in 480 BC and runs until the conquests of Alexander in the 330’s.
+
+
+
+For the __Romans__ , the answer is a bit more complicated.
+
+First off, the Romans had several different sets of traditions which they had to reconcile. There was a stream of __native Italian tradition__  — the legends of Romulus and Remus, for example, go back to the prehistory of central Italy. There was a layer inherited from the __Etruscans__ , who dominated Rome in the century or two before it became a republic. The Etruscans had a unique (and, to us, poorly understood) culture which left marked impacts on later Rome; some of the most “Roman” cultural features — from core religious traditions to gladiatorial combat — appear to have strong Etruscan elements. Finally the Romans were heavily influenced by the __Greek__ cities of southern Italy and Sicily.
+
+When Romans first started trying to understand their own past they tried to synthesize these different strands. Greek mythology, particularly Homer, provided a kind of organizing principle: purely Italian figures like Romulus and Remus, for example, acquired Trojan fore-bearers. This connection reflects both Greek and Etruscan influence — we can see that the Etruscans, too, were deeply invested in the Trojan war stories in particular. [This might reflect the ethnic origins of the Etruscans in Asia Minor ](https://www.quora.com/If-the-Romans-were-the-Trojans-in-the-past-why-did-they-stop-worshiping-the-Greek-gods-and-stop-speaking-Greek)— or it might simply be how the Etruscans and Romans reacted to the relatively wealthy and sophisticated culture of their Greek neighbors. In any case one way for Romans to understand their own identity was as part of the larger “Homeric” tapestry as it melded with Italian and Etruscan stories: this is a view which found its most famous expression in Virgil’s __[Aeneid](https://en.wikipedia.org/wiki/Aeneid)__ __.__ 
+
+The mythological layer, in Rome, was not the only reference point.
+
+The Roman Republic — unlike the early history of the Greek city-states — was always literate. This meant that later Roman generations had a vivid (if not always accurate) idea of the early political history of their own city. Where a Greek orator would cite Homer, a Roman statesman in the age of Caesar would tells stories about the famous statesmen of the early Republic: about how Brutus drove out the Tarquins, or how Camillus saved Rome from the Gauls, or how Cincinnatus voluntarily resigned from absolute power and returned to a life of honest poverty — as the Roman poet Ennius put it: _Moribus antiquis res stat Romana virisque,_ “The Roman republic stands on the customs and and heroes of old” The most influential stories tend to cluster between the sack of Rome by the Gauls (in 393 BC) and the war against Hannibal (ended 201 BC) — these centuries provided the Romans with the most important aspects of their historical self image until well into the imperial period.
+
+If later Greeks looked back to the intellectual achievements of Classical Athens, later Romans never forgot the political and military exploits which established Rome as a preeminent power.
+

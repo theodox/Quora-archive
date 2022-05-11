@@ -1,0 +1,30 @@
+# Is there official historian officers in ancient Western countries, and is there official or formal book for the most of Western history? Was history distinguished from poem and epic for Western peoples?
+
+	author: Steve Theodore
+	written: 2018-03-07
+	views: 598
+	upvotes: 16
+	quora url: /Is-there-official-historian-officers-in-ancient-Western-countries-and-is-there-official-or-formal-book-for-the-most-of-Western-history-Was-history-distinguished-from-poem-and-epic-for-Western-peoples/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+History has been understood independently of poetry and storytelling for a long time, at least since the 5th century BC. Older epic traditions continued alongside conventional history, however. There was some overlap — Greek and Roman historians tried to find the historical basis of their epics, and poets sometimes treated [historical subjects in the epic form](https://en.wikipedia.org/wiki/Pharsalia).
+
+In Greek and Roman antiquity the study of history was regarded primarily as a branch of rhetoric. Political speech was regarded as the pinnacle of literature — moving a legislature or a jury with your words was the right occupation for a gentleman. History, therefore, was a prestige subject because it furnished a broad range of stories which could be mined for a speech to provide examples of virtue or foolishness that would illustrate an important argument.
+
+However, because these were intensely political societies, historical memory was contested all the time: the foundation of the western historical tradition was not _official_  histories, but _competing_ ones. That competition is what gave rise to the process of arguing from and about evidence — the Greek writer Herodotus is known as the “father of history” not because he is the first to report deeds of the past, but because he tries to explain how he reaches his conclusions and offers conflicting evidence when he has doubts.
+
+History was a well recognized study after the 5th century BC in Greece, and after the 3rd in Rome. Although different writers were more or less good about providing evidence and explaining their historical reasoning, in theory the historian’s art was understood to be the judicious selection and weighing of different accounts.
+
+Most Greek states — and the Roman republic — did maintain official public records of various sorts after about the sixth century BC. We have only limited versions of these, and they are not exactly “history” in the strict sense — they have more in common with a modern court docket or the congressional register than with a book of history you’d find in a library.
+
+In the west, “court historians” go back at least as far back as the career of Alexander the Great, about a century and a half after Herodotus. However these were not precisely “official.” Alexander brought a number of writers with him, most notably [Callisthenes](https://en.wikipedia.org/wiki/Callisthenes) and [Eumenes](https://en.wikipedia.org/wiki/Eumenes). Neither of their works survive but they formed the basis for many subsequent histories. Alexander was extremely well aware of the value of public relations — Callisthenes’s writing was oriented towards shaping public opinion back in Greece, while Eumenes was primarily the keeper of the official records of the campaigns and decisions.
+
+Alexander’s choice set the standard for the Hellenistic successor kingdoms, which were generally locked in a long-running PR battle for legitimacy. Non-Greeks who dealt with the Greek world picked up the habit as well — most famously Hannibal, who [brought Greek historians along on his campaigns against Rome ](https://en.wikipedia.org/wiki/Sosylus_of_Lacedaemon)hoping to present the Carthaginian point of view in the Greek world.
+
+Generally these positions were not the same as those of a modern official historian. Ancient literature was supposed to be the province of gentleman-amateurs; writing directly for pay was regarded as demeaning. The [most common arrangement was for the writer to receive some kind of undemanding government job](https://www.quora.com/How-did-ancient-historians-and-writers-Herodotus-or-Josephus-e-g-support-themselves-financially-Did-they-have-wealthy-patrons-like-Renaissance-writers-and-artists-did/answer/Steve-Theodore) and to do their writing in their spare time. This an ideal, not always a reality however: writing for kings is never a matter of pure conviction. Callisthenes, for example, was executed when he was too publicly critical of Alexander’s claims to divinity.
+
+While Rome was a republic rather than a monarchy it did not have an official historiographic tradition. The state did maintain official records — the _[Fasti](https://en.wikipedia.org/wiki/Fasti)_ __ and the _[Annales maximi](https://en.wikipedia.org/wiki/Annales_maximi)_ — but these were bare, practical registers of events and not narratives. Roman republican politicians were aware of the value of history — Scipio Africanus, for example, brought [Polybius ](https://en.wikipedia.org/wiki/Polybius)on his campaigns against Carthage in the typical semi-official position. A few even wrote their own histories — the most famous and successful of these being Julius Caesar.
+
+In the imperial period, many Roman emperors followed the Hellenistic example and sponsored writers, but most of the time the Roman patronage model was more indirect. [Livy](https://en.wikipedia.org/wiki/Livy), for example, was a friend and supporter of emperor Augustus but never held a government post. Roman society was built around a network of patronage relationships, so emperors had many other means of encouraging and rewarding friendly writers besides basic economic rewards: a nod from the emperor by itself was a powerful boost to an author’s prestige. However “kept” writers were not unknown — the most famous example is the Jewish historian [Josephus](https://en.wikipedia.org/wiki/Josephus), who was a prisoner of war who wrote on behalf of the Roman emperor, Titus, who had spared him after his capture.
+

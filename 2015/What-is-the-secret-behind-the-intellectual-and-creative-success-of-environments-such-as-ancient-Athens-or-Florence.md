@@ -1,0 +1,20 @@
+# What is the secret behind the intellectual and creative success of environments such as ancient Athens or Florence?
+
+	author: Steve Theodore
+	written: 2015-01-31
+	views: 360
+	upvotes: 4
+	quora url: /What-is-the-secret-behind-the-intellectual-and-creative-success-of-environments-such-as-ancient-Athens-or-Florence/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+Both of those examples share a couple of characteristics that made them uncommon in their day (I'm focusing on their brief 'golden age' periods for both places -- there were, of course, long periods of mediocrity too...)
+
+They were both comparatively __free.__ While neither city had modern ideas about human rights or equality, they were both much more open than their neighbors and competitors. Social, commercial, artistic experimentation were easier there than in other cities where the tastes of a single monarch or the social privileges of a rigid aristocratic caste dictated what could be done. Athens was more 'democratic,' although you could make the case that the Florentine republic was more inclusive since naturalization was possible and only a small part of the population were slaves. Political freedom brought with it some respect for freedom of speech; economic freedom meant that more people had the money to patronize the artists and intellectuals of their own choice. 
+
+At the same time they were both highly __competitive__  places (another benefit of political freedom). Although neither Athens nor Florence were dominated by their respective aristocracies to the same degree as 14th c. France or 4th C BC Thebes, both cities did have a social elite. In both cases the aristocracy was a highly competitive class, where different families contended for social and political power. An important aspect of that competition was the reputation for liberality (in the sense of generosity) and culture. To be a patron of the arts or the architect of a successful policy, to be one of the recognized leaders of the city was the capstone of an aristocrat's career: this meant that the upper classes actively courted artists and intellectuals in order to display their own taste and intelligence; they fostered public projects (churches, temples, festivals and the like) that advertised their power, benevolence and good taste. This, in turn, attracted ambitious and talented people from other cities who could hope to attract patronage. Lastly, the element of political competition had a way of keeping the arts from spinning off into the ether: Athenian and Florentine artists and patrons cared about the public reception of their work passionately, so even the lower classes who could not afford to buy or commission such works had an indirect influence on their creation: it was not a market where the tastes of wealthy affficionados were the only thing that mattered.
+
+Finally, both cities were comparatively __wealthy__ . Florence dominated the wool trade and international finance; Athens was the commercial hub of the Greek world. There were other Italian republics and Greek democracies, but none could attract the same kinds of talent from abroad that Athens and Florence did in their heyday. This allowed for more ambitious works -- the Duomo, the Parthenon -- and also made sure that ambitious aristocrats could commission 'the best money could buy'.
+
+Of course, the sad aspect of the story is that neither of these golden ages lasted very long. Athens destroyed itself by abusing its position of leadership in the Greek world, sliding into political irrelevance and trading in its populist character for another run-of-the-mill provincial oligarchy. Florence betrayed its republican principles and became the private playground of the Medici. They continued to patronise the arts, but with royal censorship and the lack of a vibrant, competitive life the city became a museum rather than a workshop. The combination of freedom, wealth, and an open market in ideas is historically rare and all too fleeting.
+

@@ -1,0 +1,28 @@
+# Is it right that the Pillars of Hercules marked some threat to navigation in the Antique era, which is why navigators of Antiquity didn't colonize the Atlantic coasts of Europe and Africa?
+
+	author: Steve Theodore
+	written: 2017-11-25
+	views: 2677
+	upvotes: 94
+	quora url: /Is-it-right-that-the-Pillars-of-Hercules-marked-some-threat-to-navigation-in-the-Antique-era-which-is-why-navigators-of-Antiquity-didnt-colonize-the-Atlantic-coasts-of-Europe-and-Africa/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+Not really. The pillars also went by the name “gates of [Gades](https://www.ancient.eu/Gades/)”, for the Punic colony just west of Gibraltar, and that’s that name really captures the essence of the situation.
+
+Carthage and its colonies — of which Gades was one of the biggest and most important — dominated the western Mediterranean sea lanes from about the sixth century BC down to the end of the second Punic war in 201. The Carthaginian empire was founded on trade, and they forcefully defended their monopoly on the sea-routes with Iberia and the Atlantic throughout this period. Greek sailors were turned back before they could leave the Mediterranean. This didn’t really require an impressive navy during this period (although the Carthaginians had the largest navy west of Greece) because ancient sailors were almost completely confined to coasting. Carthage occupied every good anchorage and watering spot from Tunisia to Morocco, Malta, most of Corsica and Sardinia and the Balearics, western Sicily, and the Mediterranean coast of Spain: to exclude Greek sailors they merely had to deny them access to their own territories.
+
+![](https://qph.fs.quoracdn.net/main-qimg-10fe50fef6dc9e297e5536eba65fb8d9-c)
+
+_The proudest boast of the Spanish empire: the legendary warning on the pillars —_ ne plus ultra_(“no further!”) — became simply_ plus ultra_: “further!”) Sadly, though, there is_ _[no actual ancient source](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D3%3Achapter%3D5%3Asection%3D5)_ _for the warning on any on the pillars: it looks like a Renaissance invention._ 
+
+The result was a complete Carthaginian monopoly on the Atlantic world. Carthaginian merchants traded as far north and Britain and Brittany; it’s not clear how far south they went but estimates range from Senegal to Cameroon. Some reports filtered back to the Greek world; that’s how [Aristotle had heard of Ireland](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DI%3Aentry+group%3D3%3Aentry%3Dierne-geo), and much later Pliny of [gorillas](https://en.wikipedia.org/wiki/Hanno_the_Navigator). The one Greek who saw northwest Europe at first hand was [Pytheas](https://en.wikipedia.org/wiki/Pytheas#Circumstances_of_the_voyage) of Massillia (modern Marseille) — but not enough of his work survives for us to know how he made it past the Carthaginians — by agreement, by stealth, or by hiring a Carthaginian vessel. In any case his experience was so rare that most later Greek writers chose to view some of his discoveries, from sea ice to the midnight sun, as a tall tales rather than reliable reports.
+
+The real reason that colonization never came to the Atlantic sea routes was simple: they weren’t profitable enough.
+
+The Carthaginians lost their monopoly when the Romans dismantled their empire following the second Punic war. Greek, and to a lesser degree Roman traders picked up where the Carthaginians left off. However they were not more inclined to colonize the Atlantic seaboard. The Carthaginian trade network and its Greco-Roman successor were ultimately oriented on the transportation of high value goods to the richer economies of the eastern Mediterranean; bulk transportation of food, timber and so on were only profitable in safe, orderly runs. Since neither the northern or southern coasts of the Atlantic had an abundance of the kind of goods ancient traders craved, and since both were not over-served with safe harbors, the routes remained fairly marginal. In the north, the primary attraction was [tin from Cornwall and Brittany](https://en.wikipedia.org/wiki/Tin_sources_and_trade_in_ancient_times). In the south, there was unrefined gold, ivory, and exotic animals. In both cases, the costs of setting up permanent settlements outweighed the returns — the Carthaginians and the Greco-Roman traders that followed them found a precarious balance between the risks and rewards of the trade — enough to tempt the adventurous, but not enough to demand a deliberate effort at conquest.
+
+The ideal trade route for an ancient mariner connected two wealthy, well developed states who wanted to trade in high value-for-weight commodities; other forms of trade were much less profitable and enticing. The extremely lucrative spice trade linking East Africa, Arabia and India did attract significant investment in infrastructure (although most of the empire-building there was actually done by the Arabian and Ethiopian kingdoms who competed to monopolize the best locations on the African coast). In the Atlantic world the primary imperial venture was the conquest of Britain and its valuable mines — but even that was a marginal venture which [some of our sources seem to describe as a waste of money and effor](https://www.quora.com/Why-did-the-Emperor-Claudius-invade-Britain)t.
+
+It probably did not help either that Mediterranean ship designs aren’t well suited to the the higher seas of the Atlantic, but ultimately that’s a concern that ancient ingenuity would probably had conquered if the motivation were stronger; the ships that sailed the Indian routes were custom-built for that trip.
+

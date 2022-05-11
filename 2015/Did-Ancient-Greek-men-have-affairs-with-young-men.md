@@ -1,0 +1,35 @@
+# Did Ancient Greek men have affairs with young men?
+
+	author: Steve Theodore
+	written: 2015-11-21
+	views: 13636
+	upvotes: 67
+	quora url: /Did-Ancient-Greek-men-have-affairs-with-young-men/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+Yes. However we don't really know what to make of it.
+
+[Maja Šundić](https://www.quora.com/profile/Maja-Šundić)'s answer covers the basic facts quite well. The exact nature of this relationship has been debated for a long time but the widespread social acceptance of the _erastes/eromenos_  relationship was pretty much a given from the dawn of recognizable Greek culture down to the end of antiquity. Exactly how it fits into modern categories has been hotly debated for at least the last 3o0 years. At various times it's been seen as a form of highly sentimentalized mentorship, as a form of ritualized child abuse, as a legitimation of homosexual desire and also as an effort to restrict and channel it. All of those versions probably describe some individual cases: like everybody else, the Greeks didn't agree among themselves or practice what they preached when it came to sex. Some Greek writers talk about the relationship in graphic sexual terms, others as if it were form of spiritual communion; some discuss it as an embarrassing bit of juvenalia, and others a civic rite of passage. In some descriptions its a monogamous long-term partnership and in others it sounds like a free-wheeling hookup culture. So its not surprising we can't easily wrap our heads around it.
+
+ It's also worth remembering that there were hundreds of different Greek cities with very different attitudes and customs; in Elis (home of the Olympic games) was said to have a free-wheeling and highly sexualized version of pederasty where in Sparta (practically next door) actual sexual contact between the older and younger man was regarded as indecent. Our sources lean very heavily towards Athens, which was somewhere in between those extremes and where the custom also had strong class connotations. In some cases the upper class attitude was copied by people with less social or economic clout; in other cases pederasty was regarded as an aristocratic pecadillo, something for the toffs that was snickered at by "ordinary people." 
+
+ The practice seems to have its roots in the warrior culture of the early iron age, and it always retained its association with aristocrats and the army. In extremely aristocratic Thebes, for example, the [Sacred Band](http://Sacred Band) was supposedly composed entirely of pairs of lovers (this points out how untranslatable the term really is: it's hard to imagine an elite military force that subsists entirely on long-term romantic relationships!) By the time it reaches literary sources (say, after about 500BC) it's already an old tradition with a long history; correctly or not, many the later Greeks read the story of Achilles and Patroclus as an example of an erastic relationship, and it was a common theme for poets and later playwrights. 
+
+The public space most associated with the gymnasium (the word means literally "a place for exercising naked" -- you can see where how the connection came about) . The gymnasium combined an athletic field where upper class boys went to train for military service, a public bath, and a community center for lectures, poetic performances, and schools. It was also a place where men of a certain age went to watch naked boys wrestling or running races. The atmosphere in these places might remind us of one of those mythical British public schools -- a lot of upper-class adolescent boys, a lot of energy, and no girls at all. Greek was a highly sexually segregated; free women lived in the kind of seclusion that we associate today with _The Arabian Nights --_ the gym was the most exclusively male space in a male-dominated society* It's easier to understand how the Greek system evolved if you recall that there was essentially no chance for young Greek men to have heterosexual romantic relationships: marriage was arranged for dynastic reasons and Greek women were rarely even seen in public. 
+
+The older man hanging around the gymnasium looking for a new lover appears in literature, variously, as a recognized social type, as a fond reminiscence, and as a creepy stalker (again, the Greeks were no more unified in their thoughts about this than we are). We find lots of Greek vases like this one 
+
+
+
+![](https://qph.fs.quoracdn.net/main-qimg-90a15658cf480611dbe5ac9efda76891)
+
+
+The inscription is "Pilykos kalos" or "Pilykos is beautiful." The specially commissioned vases were a common way for an older man to woo a new lover or reward an existing one (another indication, by the way, of how this was an expensive upper-class pursuit). 
+
+The relationship -- again, the aristocratic background is very important -- wasn't just a personal one between two individuals. In many cases -- like a Greek marriage -- the relationship of _erastes_ and _eromenos_  was often arranged by families, not just the product of spontaneous feelings. The older man in the relationship was expected to help and support the younger's career. Finding an appropriate partner could be a complex political or economic calculation for a family. However the bargains (like marriage bargains in 19th century Europe) had to remain discreet: a young man who prostituted himself openly lost his citizen rights. The balance of power between the older and younger partner was constantly in flux: like the stereotype of the Hollywood producer courting an aspiring starlet, the negotiation between economic power and youthful beauty could swing either way. Many surviving poems lament the heartlessness of the young men who manipulated the desires of their helpless admirers. There's less literature about what it meant to accept unwanted advances for the sake of money and political advancement, but Plato (for example) speaks archly of the inequality in love and how the 'beloved' can hate his 'lover'. 
+
+Predictably, the family's role in this relationship meant that pursuing a relationship a family disapproved of was punished strongly. There were strict laws against relations with inappropriate suitors: foreigners, slaves and citizens whom the family had turned down. Adolescent boys were accompanied by slave-chaperones (our word for educator, _pedagogue,_ comes from the Greek _paidagos,_ the "child-leader" who watched over the boys in public spaces). Failure to provide this kind of protection was regarded as poor parenting (Greek cities, without professional policing for the most part, could be quite dangerous in any case). The punishments for an older man who forced himself on an unwilling boy were quite severe and could include the death penalty. In the proper view, at least all erotic relations were consensual -- as Xenophon put it, "Gentlemen do not force anyone to love them."
+
+_* the interesting exception was Sparta, where -- uniquely among Greek cities -- girls also practiced naked public exercises.... not, however, in the same place as the boys._ 
+

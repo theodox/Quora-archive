@@ -1,0 +1,26 @@
+# During Classical Greece, how common was it for the Greeks to claim to be descendants of the gods?
+
+	author: Steve Theodore
+	written: 2021-02-03
+	views: 588
+	upvotes: 19
+	quora url: /During-Classical-Greece-how-common-was-it-for-the-Greeks-to-claim-to-be-descendants-of-the-gods/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+Common enough that the Egyptians, at least, found it a bit amusing:
+
+> Hecataeus the historian was once at Thebes, where he made for himself a genealogy which connected him by lineage with a god in the sixteenth generation. But the priests did for him what they did for me (who had not traced my own lineage). They brought me into the great inner court of the temple and showed me there wooden figures which they counted up to the number they had already given, for every high priest sets there in his lifetime a statue of himself; counting and pointing to these, the priests showed me that each inherited from his father; they went through the whole tale of figures, back to the earliest from that of him who had lateliest died. Thus when Hecataeus had traced his descent and claimed that his sixteenth forefather was a god, the priests too traced a line of descent according to the method of their counting; for they would not be persuaded by him that a man could be descended from a god; they traced descent through the whole line of three hundred and forty-five figures, not connecting it with any ancestral god or hero, but declaring each figure to be a "Piromis" the son of a "Piromis," that is, in the Greek language, one who is in all respects a good man.
+
+_[Herodotus II.143](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/2B*.html)_ 
+
+Pretty much every aristocratic clan traced its ancestry back to a semi-divine hero, usually a character from the Trojan war. Almost all of those heroes had one or more divine parents; Zeus and Poseidon were evidently the most prolific. Interestingly there are not many claims of descent from full-blown goddesses but nymphs and nereids are common.
+
+To give some examples from Athens: the [Eupatridae](https://en.wikipedia.org/wiki/Eupatridae) — the Athenian equivalent of Rome’s patricians — almost all claimed descent from some or other half- divine hero of the Trojan-war. Pericles’ clan, the [Alcmaeonidae](https://en.wikipedia.org/wiki/Alcmaeonidae), traced their line back to wise king Nestor, whose grandfather was Poseidon. [Cimon ](https://en.wikipedia.org/wiki/Cimon)and [Miltiades ](https://en.wikipedia.org/wiki/Miltiades)came from the [Philaidae](https://en.wikipedia.org/wiki/Philaidae), who looked back to Ajax and his grandfather Zeus; [Alcibiades](https://en.wikipedia.org/wiki/Alcibiades) and the historian [Thucydides](https://en.wikipedia.org/wiki/Thucydides) were from the same clan. [Solon](https://en.wikipedia.org/wiki/Solon#Life) and [Plato ](https://en.wikipedia.org/wiki/Plato)claimed descent from [Codrus](https://en.wikipedia.org/wiki/Codrus), the last king of Athens, and thus again from Nestor and Poseidon. Other clans claimed descent from Orestes (and thus Zeus again, five generations earlier) or from Theseus (Poseidon) or from Odysseus (and thus Poseidon, Aeolus and Zeus). Similar stories were found in any Greek city, at least among the upper classes — Alexander the Great was descended from Heracles and Zeus on his father’s side and from Achilles (so Zeus, several nymphs, Gaia, and the pre-Olympian sea-god Nereus).
+
+This game clearly extended well outside the Greek world proper too: Many clans in Italy or the Balkans tied themselves somehow back to the Trojan war cast and its divine parentage: Etruscans in Tuscany, Messapians in Apulia, Veneti in northern Italy, and most famously the Romans all found ancestral ties to the familiar names.
+
+Whether any of that reflects some tenuous link to the historical bronze age is a fun matter to speculate on but is unlikely to be resolved. How seriously people took the divine aspect of it is unclear — Herodotus’ quote certainly sounds like a gentle bit of second-hand mockery. However an Athenian nobleman in the days of Plato was no farther from his putative Trojan-war era ancestor than many a European noble today traces his line back to a Lombard baron or a Saxon duke. The [historicity of the Trojan War was not seriously questioned in antiquity](https://www.quora.com/Did-the-ancient-Greeks-and-or-Romans-view-the-Trojan-War-as-described-in-the-Iliad-as-an-actual-historical-event-When-did-it-come-to-be-seen-as-fictional/answer/Steve-Theodore?ch=10&share=27f76ccc&srid=zLvM), though plenty of people were skeptical about its more mythological components.
+
+One thing to mention, though, is that all those divine ancestors were tucked safely away in the past. When Alexander the Great [proclaimed himself the direct son of Zeus](https://www.quora.com/Have-you-heard-that-Alexander-the-Great-was-declared-a-Son-of-God/answer/Steve-Theodore?ch=10&share=ba4bfb8d&srid=zLvM) (or more precisely of Zeus-Ammon) it definitely raised eyebrows. Most of his contemporaries treated his pretensions as an imitation of “barbaric” Persian customs or as megalomania: it wasn’t until the cultural fallout from the wars which followed his death really settled that Greeks got comfortable with the idea of the living god next door.
+

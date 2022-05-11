@@ -1,0 +1,22 @@
+# Who was Praetor (governor) of Gaul and Illyricum between 5 BC and 10 AD? Was it Augustus himself?
+
+	author: Steve Theodore
+	written: 2020-06-18
+	views: 375
+	upvotes: 5
+	quora url: /Who-was-Praetor-governor-of-Gaul-and-Illyricum-between-5-BC-and-10-AD-Was-it-Augustus-himself/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+In this period the empire was divided into two types of provinces. __Senatorial provinces__ were older, more established and (most importantly) mostly demilitarized. These were typically governed by an former praetor, who would generally have gotten that job by being nominated by Augustus and “elected” by the Senate in something like the old Republican manner. However the governor would have been a _proconsul_ , despite never having been a consul — by this point the consulate was a civilian office and the terminology was intended to send that message clearly. __Imperial provinces__ , on the other hand were too dangerous or too strategic to be left in the hands of the Senate. These were all governed by Augustus’ personal appointees. These were _propraetors —_ by ancient tradition a propraetor was given delegated _military_  authority.*
+
+For purposes of the question, Senatorial provinces were unfortunately _boring_  — the only reason why Augustus left them in the jurisdiction of the Senate was because they were not scenes of political or military drama. __Gallia Narbonesis__ , roughly modern Provence, was a senatorial province. Which means we don’t have a lot of mentions, even in passing, of who ran them. There’s a chance archaeological find relating to an otherwise unknown Gnaeus Pullius Pollio as proconsul around 17 BC but otherwise there are no recorded governors in this period.
+
+The other three provinces in Gaul (collectively, “__Gallia Comata__ ”) were all imperial provinces governed by Augustus’ propraetorian legates. For the period in question Gaul was mostly quiet — and thus, again, does not show up in our sources very much. The same Gnaeus Pullius Pollio was apparently a propraetorian legate in Gallia Comata but we’re not sure when. The future emperor Tiberius was was the propraetorian legate for Gaul in 16 BC, and [Nero Claudius Drusus](https://en.wikipedia.org/wiki/Nero_Claudius_Drusus) was from 15 to probably 12 — Augusts was apparently using the appointment as a proving ground for members of the imperial family. We don’t however know any names for individual legates between 5 BC and 10 AD.
+
+Illyricum, on the other hand, was an active military frontier. It had originally been a proconsular province — but following the outbreak of war in Pannonia 14 BC it was converted into a propraetorian province. Tiberius campaigned there in 9 BC, but the signal event in this period is the [Great Illyrian Revolt](https://en.wikipedia.org/wiki/Bellum_Batonianum) of the years 6–9 AD. This means we actually do have a name for the end of the period in question: In 6 the governor was [Marcus Valerius Messalla Messallinus](https://en.wikipedia.org/wiki/Marcus_Valerius_Messalla_Messallinus). Once the revolt broke out Tiberius was dispatched to the scene where assumed overall command but Messalinus remained an active participant — he was eventually granted the “triumphal ornaments” when Tiberius celebrated his triumph for Illyria in 12. In 9 as the conflict was concluded [Marcus Aemilius Lepidus](https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(consul_6)) became governor. In both cases we only know these names because the area, as the scene of an active war, attracted the attention of Roman historians who would otherwise have not troubled themselves to record a relatively routine appointment.
+
+
+
+* On a purely technical level, this delegation is why his commanders stopped earning triumphs for their victories: as the merely “subordinate commanders” they weren’t eligible. The last full triumph celebrated by anyone outside the imperial family was for [Lucius Cornelius Balbus](https://en.wikipedia.org/wiki/Lucius_Cornelius_Balbus_(proconsul)), who was a _proconsular_  governor of Africa and thus not strictly speaking a subordinate of Augustus’ supreme command. That said, of course, the real reason was the need to monopolize military glamour. It didn’t hurt that Balbus was an old friend of the family, having been a supporter of Caesar during the civil war — or that he was not born a Roman citizen which made him politically unthreatening.
+

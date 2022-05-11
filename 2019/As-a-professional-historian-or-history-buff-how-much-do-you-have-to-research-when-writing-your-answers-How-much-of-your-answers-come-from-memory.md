@@ -1,0 +1,22 @@
+# As a professional historian or history buff, how much do you have to research when writing your answers? How much of your answers come from memory?
+
+	author: Steve Theodore
+	written: 2019-05-24
+	views: 505
+	upvotes: 28
+	quora url: /As-a-professional-historian-or-history-buff-how-much-do-you-have-to-research-when-writing-your-answers-How-much-of-your-answers-come-from-memory/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+Most of my answers _start_ from memory, but I almost never run straight with my instincts. I find the knowledge that thousands of strangers will be looking at something with my name on it makes me extra cautious, and so I typically double check my citations or dates, even for pretty simple factual questions. I’d rather spend the time and not look like too much of a dork. I generally don’t write answers from a completely blank slate — I don’t think I’m adding much value if I have to look something up just to turn around and rephrase it right away.
+
+In terms of time, the answers vary quite widely.
+
+Typically the most time consuming ones are a situation where I need to get my own thoughts in order — they’re less about information retrieval and more about reflection and contextualizing things. One of the most time consuming things for me is hunting up quotes; it’s fairly easy to get an authoritative name or date from Google, but trying to recall some half-remembered quip by a minor author its often very time consuming.
+
+I’d say about half of all the answers are under half an hour; these are mostly factual or “factual with some context” type answers where most of the time is just finding the corroborating links and/or pictures. Finding good, appropriately licensed images takes up a surprising amount of time, particularly if you try to be good about crediting the creators — unfortunately, Quora and Wikimedia Commons do not play nice together, which often adds a good bit of extra time to even simple answers. So for example, almost all of the time in [Steve Theodore's answer to What would ancient Greeks from the different cities have given to their lovers as interest gifts or love tokens?](https://www.quora.com/What-would-ancient-Greeks-from-the-different-cities-have-given-to-their-lovers-as-interest-gifts-or-love-tokens/answer/Steve-Theodore?ch=10&share=ccf41c0a&srid=zLvM) was actually devoted to finding images that didn’ come with a big Getty watermark, not to writing.
+
+Of the rest of the answers, about half again fall into the range of a single evening — maybe two-three hours. Typically these involve more detailed research (like offering a personal conclusion on matters where there’s not a clear professional consensus, or trying to find a good set of illustrative material. Short translations also fall into this bucket; I’m a lousy linguist and always needs to reassure myself. A lot of answers end up in the “there goes my evening” category because the supplemental research turns interesting on its own. For example, I knew the basics of this one: [Steve Theodore's answer to If horses didn't exist, what would humans have ridden into battle?](https://www.quora.com/If-horses-didnt-exist-what-would-humans-have-ridden-into-battle/answer/Steve-Theodore?ch=10&share=2648f933&srid=zLvM) before I sat down to write it out; but looking for illustrations sent me on a fun side-trip through the archaeology of the donkey-onager hybrid trade in ancient Syria. a level of detail I definitely did not have at my fingertips when I began!
+
+The last fraction — about a quarter of the total —are answers which take more than three hours. Usually, these involve something I want to argue fairly closely, or which I just don’t know a lot about and need to learn better before diving in. Some of these are research heavy but often they are just hard to articulate and require a few drafts to get right. Often, you know you’ll be running into entrenched opinions so it is worth it to put in some extra time upfront so you have all your ducks in a row — I much prefer laying all my cards out at once to slanging matches in the comments sections — as for example [Steve Theodore's answer to What is your opinion about the theory of Marshall Zhukov that Alexander had been defeated in India?](https://www.quora.com/What-is-your-opinion-about-the-theory-of-Marshall-Zhukov-that-Alexander-had-been-defeated-in-India/answer/Steve-Theodore?ch=10&share=8862e226&srid=zLvM)
+

@@ -1,0 +1,24 @@
+# What was the status of black people in the Roman Empire?
+
+	author: Steve Theodore
+	written: 2015-05-09
+	views: 72282
+	upvotes: 319
+	quora url: /What-was-the-status-of-black-people-in-the-Roman-Empire/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+One element to remember is that the Roman world was very diverse, with hundreds of different component nationalities, but it didn't have a lot of sub-Saharan Africans in it. Nubia (Sudan) was the primary point of contact between the Roman world and Africa below the Sahel; there was very little traffic around the western African coast and domesticated camels were still very rare so there was almost none of the trans-Sahara caravan trade which later provided the backbone of the trade in goods and slaves during Arab times. So the Romans had a big set of different looking people from very different cultures to deal with, but the only black people they saw with any regularity were Ethiopians. All of which is a long way of saying "racist" is not really a concept in the Roman world: they had no clear idea of the difference between "white people" and "black people".
+
+Of course, that doesn't mean they were PC.
+
+On the one hand they were more or less universally convinced that Romans were the Best People On Earth, and they could be very arrogant and xenophobic, particularly when directing popular dislike against foreigners was politically useful at home; the propaganda campaign around Octavian's war with Cleopatra, for example, was pretty shamelessly over the top in portraying the Egyptians as a mysterious and exotic menace.
+
+On the other hand, though, the Romans were far more willing to integrate and assimilate people of all backgrounds than many contemporary (or later) cultures. The Romans granted citizenship much more widely than any Greek state ever did, for example, to everybody from Pictish chieftains in Scotland to Nubians in Sudan and Gaetulians in Morocco. Roman emperors came from Spain, Gaul, Illyria, the province of Africa (modern Tunisia), Syria, Thrace and a few more. Romans admired Greek literature and culture; followed Egyptian and Near-Eastern religions, and many of the richest and most powerful people in Rome were of foreign origin: while grouches like [Juvenal](http://en.wikipedia.org/wiki/Juvenal) loved to complain about how foreigners were taking over, their resentment is a tribute to how much social mobility was possible.
+
+There were certainly a lot of stereotypes flying around in Roman views of outsiders (see [What are the cultural stereotypes from the various provinces of the Roman Empire?](https://www.quora.com/What-are-the-cultural-stereotypes-from-the-various-provinces-of-the-Roman-Empire)) but these only loosely connected with skin-color prejudice. Romans weren't shy about ascribing different characteristics to different groups -- Hispanians are hotheads, Greeks are slippery, Egyptians are otherworldy, Phoenicians are greedy and so on -- but this wasn't connected to any particular feeling about how these people were grouped in any bigger sense -- not whites vs blacks or Europeans vs non-Europeans. Greeks are a partial exception: the Greeks worked very hard to convince the Romans that the empire was a "Greco-Roman" world rather than just a Roman one, and to a large degree they succeeded in getting a status that was a bit higher than that of other foreigners.
+
+The modern connection between slavery and race is very unusual; it really only existed between the 16th and 19th centuries in the Western Hemisphere. The default version of slavery -- which is nearly universal before the last few hundred years -- was much less rigid and not tied to skin color, but usually to warfare (slavery was frequently the fate of the defeated) or poverty (selling yourself or your children into slavery was the last refuge of the truly poor, who might otherwise end up starving) Roman slavery had a fairly high 'turnover' - many of those rich foreigners in Rome were freedmen, former slaves who had become rich by working important jobs for powerful masters and had either purchased or been granted freedom. A servile origin was not fashionable (asserting that your political opponents were former slaves or the children of former slaves was a common form of political abuse) but it didn't disqualify you from economic power , and as the empire became less democratic and more bureaucratic freedmen were often extremely wealthy and powerful. For all these reasons the vicious cycle connecting slavery, ethnic origin and poverty which persists in modern understandings was not really a factor in Roman thinking. 
+
+By way of analogy you might think of the Romans as Victorian country gentry, who felt themselves to be superior to tradesmen and foreigners but who ended up seeing them achieving great power in politics and the economy -- and, eventually, buying their way into the ranks of social privilege after a couple of generations.
+

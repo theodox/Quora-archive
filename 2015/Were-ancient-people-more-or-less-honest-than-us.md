@@ -1,0 +1,22 @@
+# Were ancient people more or less honest than us?
+
+	author: Steve Theodore
+	written: 2015-02-24
+	views: 1467
+	upvotes: 17
+	quora url: /Were-ancient-people-more-or-less-honest-than-us/answer/Steve-Theodore
+	author url: /profile/Steve-Theodore
+
+
+There are a couple of ways you could spin this. While I think it's not very meaningful to try to assign values to huge masses of people instead of individuals, there's some descriptive value in the broad brush picture even though you should take it was a large dose of scepticism.
+
+Honesty -- Latin _honestas --_ derives from the same root as 'honor.' The modern meaning -- roughly, 'telling the truth all the time' or 'acting in public as you do in private' are a subset of the older concept of honor. They are also much more private than the old idea. In aristocratic times, honor was tied up in the public performance of a role: you didn't _have_ honor so much as you were 'honored' -- your virtues were recognized in the community. Playing your role correctly meant playing it publicly.
+
+Because honor (and honesty) are public virtues in the older conceptions, they work differently than our safer, domestic kind. In a more face-to-face society, the value of your word (especially if you are a political aristocrat) is paramount: an ancient city or a medieval court was a small place from which there was no escape. A reputation for duplicity, cowardice, or impropriety was hard to shake and could cripple you in very practical ways: making it hard to advance in politics or business, creating feuds -- potentially very violent ones -- and rendering you contemptible. Most of antiquity -- really until the last century -- was a time when your word was literally your bond. There's a lot of folk-lore (and real history) about heroes who suffer great wrongs rather than going back on their word; the kind of things you see in a Sir Walter Scott novel were exceptional but they were celebrated because they were extreme examples of a common theme. The social structure rewarded the public performance of honesty and punished the opposite in ways we no longer do: we're very forgiving in the modern world because we rely much more on impersonal legal and financial mechanisms: nowadays, no bank will deny you a loan because you cheated on your spouse or lied about your war record. 
+
+Of course, the public aspect of this makes it very different from the modern idea of honesty. There is a huge difference between the public and the private concept of virtue. That's why Plato and Aristotle constantly debate the difference between being honorable and being seen to be honorable: in the ordinary usage of their times the difference was rarely recognized. In the older conception, sticking to your bargains, paying your debts, and defending your clan you were "honest". Pretending to like the neighbor you detested, publicly worshiping gods you didn't believe in, or paying lip service to public policies you detested were simply the compromises you made to get along in a competitive environment. Only rare individuals would make a stand over those sorts of things. Moreover the 'word is my bond' thing could be as narrow and legalistic as any modern contract: ancient history is full of examples of deals which were technically fulfilled but which were 'dishonorable' in the sense of being deliberately deceptive. 
+
+The effect is a bit jarring if you read a lot of history. You meet figures like Cicero, who sometimes seems like a romantic idealist: prosecuting powerful and corrupt Senators on behalf of disenfranchised provincials; droning on about the stern Roman virtues; eventually, losing his life in a vain attempt to stop Rome's slide into dictatorship. At other times he looks like a consummate cynic: he wrote a book-long takedown of omens, auguries and divinations but his proudest achievement was being elected to the college of augurs -- that is, becoming a public fortune teller. Somebody like Caesar or Pericles could happily pose as a champion of the little people while being a blue-blooded aristocrat who despised the poor without any sense of incongruity. Honesty, in those days, was more about _reliability_  than what we would call _integrity._ 
+
+That said: in that kind of environment, where some kinds of dishonesty have such terrible costs, superficial, public honesty was probably more common but the deliberate assumption of public masks was also more common than it is today. It was not a time for letting your freak flag fly.
+
