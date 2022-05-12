@@ -11,8 +11,11 @@ These articles are currently not indexed or tagged or prettified; they are just 
 ## License and Copryright
 All content is (c) Steve Theodore, 2014-2022, made available under the [Creative Commons by-nc?](https://creativecommons.org/licenses/by-nc/4.0/) license.  Please contact me for possible commercial use.
 
+---
 
-----
+Below is a chronological index of the answers.  You might find it more useful to check out the hacky [list of topics](topics.md) instead.
+
+
 2014
 ====
 * [Archaeology How did the remains of ancient societies end up in stratified layers below the surface of the ground?](2014/Archaeology-How-did-the-remains-of-ancient-societies-end-up-in-stratified-layers-below-the-surface-of-the-ground.md)
