@@ -1,7 +1,7 @@
 
 # Steve Theodore's Quora Archive
 
-This is a bulk conversion of the answers I've written at [Quora?](https://quora.com) since 2014 -- a bit of insurance for all of the content I've accumulated over the years. It's been scraped using the [downloader I wrote?](https://github.com/theodox/quoradl), which is freely available at Github.  The overwhelming bulk of this material is about ancient history, with a particular focus on Greek, Roman, and Mesopotamian topics. However there's more than a smidgen of other stuff as well.  
+This is a bulk conversion of the answers I've written at [Quora](https://quora.com) since 2014 -- a bit of insurance for all of the content I've accumulated over the years. It's been scraped using the [downloader I wrote](https://github.com/theodox/quoradl), which is freely available at Github.  The overwhelming bulk of this material is about ancient history, with a particular focus on Greek, Roman, and Mesopotamian topics. However there's more than a smidgen of other stuff as well.  
 
 > Note: I've had to tweak it in the past to accomodate changes in Quora's undocumented internal JavaScript display code -- if you run into an issue, log it in the issue tracker in the repo!
 
