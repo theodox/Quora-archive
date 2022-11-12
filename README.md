@@ -5,11 +5,11 @@ This is a bulk conversion of the answers I've written at [Quora](https://quora.c
 
 > Note: I've had to tweak it in the past to accomodate changes in Quora's undocumented internal JavaScript display code -- if you run into an issue, log it in the issue tracker in the repo!
 
-These articles are currently not indexed or tagged or prettified; they are just an automated dump of the Quora content. At some point I'll try to provide some more semantic information convert them to a static-site-generator of some kind. If you're just interested in reading it might be easier to just jump to my [Quora Profile?](https://www.quora.com/profile/Steve-Theodore) instead of trying to read these on GitHub.
+These articles are currently not indexed or tagged or prettified; they are just an automated dump of the Quora content. At some point I'll try to provide some more semantic information convert them to a static-site-generator of some kind. If you're just interested in reading it might be easier to just jump to my [Quora Profile](https://www.quora.com/profile/Steve-Theodore) instead of trying to read these on GitHub.
 
 
 ## License and Copryright
-All content is (c) Steve Theodore, 2014-2022, made available under the [Creative Commons by-nc?](https://creativecommons.org/licenses/by-nc/4.0/) license.  Please contact me for possible commercial use.
+All content is (c) Steve Theodore, 2014-2022, made available under the [Creative Commons by-nc](https://creativecommons.org/licenses/by-nc/4.0/) license.  Please contact me for possible commercial use.
 
 ---
 
