@@ -10,5 +10,5 @@ I did a very basic tagging scheme to sort these by topics, but it has not been c
 
 ---
 ## License and Copryright
-All content is (c) Steve Theodore, 2014-2022, made available under the [Creative Commons by-nc?](https://creativecommons.org/licenses/by-nc/4.0/) license.  Please contact me for possible commercial use.
+All content is (c) Steve Theodore, 2014-2022, made available under the [Creative Commons by-nc](https://creativecommons.org/licenses/by-nc/4.0/) license.  Please contact me for possible commercial use.
 
